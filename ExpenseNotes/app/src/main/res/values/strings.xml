@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Expense Notes</string>
+    <string name="view_more">View More</string>
+    <string name="submit">submit</string>
+    <string name="show_expense_report">Show Expense Report</string>
+    <string name="today_s_expense">Today\'s Expense:</string>
+    <string name="add_expenses">Add Expenses:</string>
+    <string name="recent_transactions">Recent Transactions:</string>
+    <string name="amount">Amount:</string>
+    <string name="category">Category:</string>
+    <string name="_00_00">00.00</string>
+    <string name="textview">TextView</string>
+    <string-array name="category_array">
+        <item>Food</item>
+        <item>Housing</item>
+        <item>Clothing</item>
+        <item>Transportation</item>
+        <item>Health</item>
+        <item>Recreation</item>
+        <item>Misc.</item>
+    </string-array>
+
+
+</resources>
